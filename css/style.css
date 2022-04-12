@@ -13,5 +13,38 @@ header{
     background-color:orange;
 }
 
+.nav-top ul{
+    display: flex;
+    align-items: center;
+}
 
+.nav-top a{
+    padding: 0 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.nav-top li{
+    list-style: none;
+}
+
+
+header{
+    background-color: #2c3e50;
+}
+
+
+.hero{
+    background-color: #1abc9c;
+}
+
+.title{
+    font-size: 40px;
+}
+
+.line-star{
+    background-color: white;
+    height:2px;
+    width: 100px;
+}
 
