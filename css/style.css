@@ -8,10 +8,7 @@ header{
     max-width: 500px;
 }
 
-.box{
-    height: 100px;
-    background-color:orange;
-}
+
 
 .nav-top ul{
     display: flex;
@@ -34,7 +31,7 @@ header{
 }
 
 
-.hero{
+.hero, .about, .btn-download{
     background-color: #1abc9c;
 }
 
@@ -44,7 +41,16 @@ header{
 
 .line-star{
     background-color: white;
-    height:2px;
+    height:3px;
     width: 100px;
 }
 
+
+.portfolio{
+    width: 100%;
+}
+
+.btn-download{
+    border-radius: 5px;
+    border: 0.5px solid white;
+}
